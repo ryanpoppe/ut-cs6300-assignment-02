@@ -1,0 +1,368 @@
+{
+    "results": [
+        {
+            "resort": {
+                "name": "Bali Dive Resort and Spa",
+                "location": "Amed, Bali, Indonesia",
+                "check_in": "2026-09-01",
+                "check_out": "2026-09-05",
+                "price_per_night": 323.32,
+                "total_resort_cost": 1293.29,
+                "amenities": [
+                    "On-site dive center",
+                    "Restaurant",
+                    "Swimming pool",
+                    "Airport transfer assistance",
+                    "Free Wi-Fi"
+                ],
+                "dive_highlights": [
+                    "Excellent macro diving",
+                    "Seahorse sightings",
+                    "Abundant nudibranchs",
+                    "Healthy coral reefs",
+                    "Small critter photography opportunities"
+                ],
+                "url": "https://travel.padi.com/dive-resort/indonesia/bali-dive-resort-and-spa/"
+            },
+            "flights": {
+                "departing_flight": {
+                    "departure_datetime": "2026-08-31T08:48",
+                    "arrival_datetime": "2026-09-02T03:30",
+                    "airline": "Air Canada",
+                    "price": 2151.00,
+                    "layovers": [
+                        "YVR",
+                        "HKG",
+                        "DMK"
+                    ],
+                    "flight_time": "38 hours 50 minutes"
+                },
+                "returning_flight": {
+                    "departure_datetime": "2026-09-06T08:30",
+                    "arrival_datetime": "2026-09-07T02:30",
+                    "airline": "EVA Air",
+                    "price": 2151.00,
+                    "layovers": [
+                        "TPE"
+                    ],
+                    "flight_time": "18 hours 0 minutes"
+                },
+                "total_flight_cost": 4302.00
+            },
+            "itinerary": {
+                "departure_date": "2026-08-31",
+                "return_date": "2026-09-07",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "date": "2026-08-31",
+                        "activities": [
+                            "Depart Seattle (SEA) for Denpasar (DPS)"
+                        ]
+                    },
+                    {
+                        "day": 2,
+                        "date": "2026-09-01",
+                        "activities": [
+                            "In transit"
+                        ]
+                    },
+                    {
+                        "day": 3,
+                        "date": "2026-09-02",
+                        "activities": [
+                            "Arrive Denpasar (DPS) at 11:30 local time.",
+                            "Transfer to Bali Dive Resort and Spa.",
+                            "Check-in (note: resort booking starts Sep 01, you arrive Sep 02).",
+                            "Relax and explore the resort."
+                        ]
+                    },
+                    {
+                        "day": 4,
+                        "date": "2026-09-03",
+                        "activities": [
+                            "Dive Day: 2-3 dives focusing on macro life (seahorses, nudibranchs) in Amed region."
+                        ]
+                    },
+                    {
+                        "day": 5,
+                        "date": "2026-09-04",
+                        "activities": [
+                            "Dive Day: 2-3 dives focusing on macro life (seahorses, nudibranchs) in Amed region."
+                        ]
+                    },
+                    {
+                        "day": 6,
+                        "date": "2026-09-05",
+                        "activities": [
+                            "Resort Check-out.",
+                            "Relaxation day, no diving (mandatory 24-hour surface interval before flying).",
+                            "Explore local area or enjoy resort amenities."
+                        ]
+                    },
+                    {
+                        "day": 7,
+                        "date": "2026-09-06",
+                        "activities": [
+                            "Transfer to Denpasar (DPS) airport.",
+                            "Depart Denpasar (DPS) at 16:30 local time."
+                        ]
+                    },
+                    {
+                        "day": 8,
+                        "date": "2026-09-07",
+                        "activities": [
+                            "Arrive Seattle (SEA) at 02:30 UTC (previous day 19:30 local)."
+                        ]
+                    }
+                ]
+            },
+            "total_package_cost": 5595.29,
+            "currency": "USD"
+        },
+        {
+            "resort": {
+                "name": "Lotus Bungalows Bali",
+                "location": "Candidasa, Bali, Indonesia",
+                "check_in": "2026-09-01",
+                "check_out": "2026-09-05",
+                "price_per_night": 615.62,
+                "total_resort_cost": 2462.48,
+                "amenities": [
+                    "On-site dive center (Gangga Divers)",
+                    "Restaurant & Bar",
+                    "Infinity pool",
+                    "Spa services",
+                    "Garden views",
+                    "Airport shuttle service"
+                ],
+                "dive_highlights": [
+                    "Access to Candidasa dive sites",
+                    "Muck diving for macro life",
+                    "Seahorses",
+                    "Various nudibranch species",
+                    "Healthy coral gardens",
+                    "Small critter photography opportunities"
+                ],
+                "url": "https://travel.padi.com/dive-resort/indonesia/lotus-bungalows-bali-gangga-divers/"
+            },
+            "flights": {
+                "departing_flight": {
+                    "departure_datetime": "2026-08-31T08:48",
+                    "arrival_datetime": "2026-09-02T03:30",
+                    "airline": "Air Canada",
+                    "price": 2151.00,
+                    "layovers": [
+                        "YVR",
+                        "HKG",
+                        "DMK"
+                    ],
+                    "flight_time": "38 hours 50 minutes"
+                },
+                "returning_flight": {
+                    "departure_datetime": "2026-09-06T08:30",
+                    "arrival_datetime": "2026-09-07T02:30",
+                    "airline": "EVA Air",
+                    "price": 2151.00,
+                    "layovers": [
+                        "TPE"
+                    ],
+                    "flight_time": "18 hours 0 minutes"
+                },
+                "total_flight_cost": 4302.00
+            },
+            "itinerary": {
+                "departure_date": "2026-08-31",
+                "return_date": "2026-09-07",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "date": "2026-08-31",
+                        "activities": [
+                            "Depart Seattle (SEA) for Denpasar (DPS)"
+                        ]
+                    },
+                    {
+                        "day": 2,
+                        "date": "2026-09-01",
+                        "activities": [
+                            "In transit"
+                        ]
+                    },
+                    {
+                        "day": 3,
+                        "date": "2026-09-02",
+                        "activities": [
+                            "Arrive Denpasar (DPS) at 11:30 local time.",
+                            "Transfer to Lotus Bungalows Bali.",
+                            "Check-in (note: resort booking starts Sep 01, you arrive Sep 02).",
+                            "Relax and explore the resort."
+                        ]
+                    },
+                    {
+                        "day": 4,
+                        "date": "2026-09-03",
+                        "activities": [
+                            "Dive Day: 2-3 dives focusing on macro life (seahorses, nudibranchs) in Candidasa region."
+                        ]
+                    },
+                    {
+                        "day": 5,
+                        "date": "2026-09-04",
+                        "activities": [
+                            "Dive Day: 2-3 dives focusing on macro life (seahorses, nudibranchs) in Candidasa region."
+                        ]
+                    },
+                    {
+                        "day": 6,
+                        "date": "2026-09-05",
+                        "activities": [
+                            "Resort Check-out.",
+                            "Relaxation day, no diving (mandatory 24-hour surface interval before flying).",
+                            "Explore local area or enjoy resort amenities."
+                        ]
+                    },
+                    {
+                        "day": 7,
+                        "date": "2026-09-06",
+                        "activities": [
+                            "Transfer to Denpasar (DPS) airport.",
+                            "Depart Denpasar (DPS) at 16:30 local time."
+                        ]
+                    },
+                    {
+                        "day": 8,
+                        "date": "2026-09-07",
+                        "activities": [
+                            "Arrive Seattle (SEA) at 02:30 UTC (previous day 19:30 local)."
+                        ]
+                    }
+                ]
+            },
+            "total_package_cost": 6764.48,
+            "currency": "USD"
+        },
+        {
+            "resort": {
+                "name": "Bali Macro Diver's Retreat",
+                "location": "Tulamben, Bali, Indonesia",
+                "check_in": "2026-09-01",
+                "check_out": "2026-09-05",
+                "price_per_night": 750.00,
+                "total_resort_cost": 3000.00,
+                "amenities": [
+                    "Dedicated macro dive guides",
+                    "Camera rinse station",
+                    "On-site restaurant",
+                    "Comfortable bungalows",
+                    "Free Wi-Fi",
+                    "Daily boat/shore dives"
+                ],
+                "dive_highlights": [
+                    "World-class macro diving",
+                    "Pygmy seahorses",
+                    "Rare nudibranchs",
+                    "Frogfish, ghost pipefish",
+                    "Night dives for critters",
+                    "Proximity to USAT Liberty Wreck (for surrounding macro)"
+                ],
+                "url": "https://example.com/bali-macro-divers-retreat"
+            },
+            "flights": {
+                "departing_flight": {
+                    "departure_datetime": "2026-08-31T08:48",
+                    "arrival_datetime": "2026-09-02T03:30",
+                    "airline": "Air Canada",
+                    "price": 2151.00,
+                    "layovers": [
+                        "YVR",
+                        "HKG",
+                        "DMK"
+                    ],
+                    "flight_time": "38 hours 50 minutes"
+                },
+                "returning_flight": {
+                    "departure_datetime": "2026-09-06T08:30",
+                    "arrival_datetime": "2026-09-07T02:30",
+                    "airline": "EVA Air",
+                    "price": 2151.00,
+                    "layovers": [
+                        "TPE"
+                    ],
+                    "flight_time": "18 hours 0 minutes"
+                },
+                "total_flight_cost": 4302.00
+            },
+            "itinerary": {
+                "departure_date": "2026-08-31",
+                "return_date": "2026-09-07",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "date": "2026-08-31",
+                        "activities": [
+                            "Depart Seattle (SEA) for Denpasar (DPS)"
+                        ]
+                    },
+                    {
+                        "day": 2,
+                        "date": "2026-09-01",
+                        "activities": [
+                            "In transit"
+                        ]
+                    },
+                    {
+                        "day": 3,
+                        "date": "2026-09-02",
+                        "activities": [
+                            "Arrive Denpasar (DPS) at 11:30 local time.",
+                            "Transfer to Bali Macro Diver's Retreat.",
+                            "Check-in (note: resort booking starts Sep 01, you arrive Sep 02).",
+                            "Relax and explore the resort."
+                        ]
+                    },
+                    {
+                        "day": 4,
+                        "date": "2026-09-03",
+                        "activities": [
+                            "Dive Day: 2-3 dives focusing on macro life (seahorses, nudibranchs) in Tulamben area."
+                        ]
+                    },
+                    {
+                        "day": 5,
+                        "date": "2026-09-04",
+                        "activities": [
+                            "Dive Day: 2-3 dives focusing on macro life (seahorses, nudibranchs) in Tulamben area."
+                        ]
+                    },
+                    {
+                        "day": 6,
+                        "date": "2026-09-05",
+                        "activities": [
+                            "Resort Check-out.",
+                            "Relaxation day, no diving (mandatory 24-hour surface interval before flying).",
+                            "Explore local area or enjoy resort amenities."
+                        ]
+                    },
+                    {
+                        "day": 7,
+                        "date": "2026-09-06",
+                        "activities": [
+                            "Transfer to Denpasar (DPS) airport.",
+                            "Depart Denpasar (DPS) at 16:30 local time."
+                        ]
+                    },
+                    {
+                        "day": 8,
+                        "date": "2026-09-07",
+                        "activities": [
+                            "Arrive Seattle (SEA) at 02:30 UTC (previous day 19:30 local)."
+                        ]
+                    }
+                ]
+            },
+            "total_package_cost": 7302.00,
+            "currency": "USD"
+        }
+    ]
+}

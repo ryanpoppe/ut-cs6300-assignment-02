@@ -1,0 +1,452 @@
+{
+  "results": [
+    {
+      "resort": {
+        "name": "Mala Boutique Inn Maldives",
+        "location": "Dhigurah, South Ari Atoll, Maldives",
+        "check_in": "2026-03-02",
+        "check_out": "2026-03-12",
+        "price_per_night": 217.30,
+        "total_resort_cost": 2173.00,
+        "amenities": [
+          "Free Wi-Fi",
+          "Air Conditioning"
+        ],
+        "dive_highlights": [
+          "Whale shark encounters (South Ari Atoll)",
+          "House Reef Diving"
+        ],
+        "url": "https://travel.padi.com/dive-resort/maldives/mala-boutique-inn-maldives/"
+      },
+      "flights": {
+        "departing_flight": {
+          "departure_datetime": "2026-02-28T09:00",
+          "arrival_datetime": "2026-03-01T20:55",
+          "airline": "Turkish Airlines",
+          "price": 575.50,
+          "layovers": [
+            "Istanbul (IST)"
+          ],
+          "flight_time": "35h 55m"
+        },
+        "returning_flight": {
+          "departure_datetime": "2026-03-12T19:40",
+          "arrival_datetime": "2026-03-13T14:45",
+          "airline": "Turkish Airlines",
+          "price": 575.50,
+          "layovers": [
+            "Istanbul (IST)"
+          ],
+          "flight_time": "22h 05m"
+        },
+        "total_flight_cost": 1351.00
+      },
+      "itinerary": {
+        "departure_date": "2026-02-28",
+        "return_date": "2026-03-13",
+        "schedule": [
+          {
+            "day": 1,
+            "date": "2026-02-28",
+            "activities": [
+              "Depart from Chicago O'Hare (ORD) for Malé (MLE), Maldives. Overnight flight with Turkish Airlines."
+            ]
+          },
+          {
+            "day": 2,
+            "date": "2026-03-01",
+            "activities": [
+              "Continue flight journey. Arrive at Velana International Airport (MLE) in Malé, Maldives (20:55 UTC). Overnight stay near MLE airport due to late arrival and daylight-only resort transfers."
+            ]
+          },
+          {
+            "day": 3,
+            "date": "2026-03-02",
+            "activities": [
+              "Morning domestic transfer (estimated cost included in flight total) from MLE to Maamigili (VAM) by flight, followed by a short speedboat transfer to Dhigurah. Check-in to Mala Boutique Inn Maldives. Relax and prepare for diving."
+            ]
+          },
+          {
+            "day": 4,
+            "date": "2026-03-03",
+            "activities": [
+              "Dive day 1: Discover local dive sites around Dhigurah, orientation dives with South Ari Dive."
+            ]
+          },
+          {
+            "day": 5,
+            "date": "2026-03-04",
+            "activities": [
+              "Dive day 2: Morning dive excursion to search for whale sharks in the South Ari Atoll Marine Protected Area. Afternoon reef dive."
+            ]
+          },
+          {
+            "day": 6,
+            "date": "2026-03-05",
+            "activities": [
+              "Dive day 3: Morning dive to maximize chances of whale shark encounters. Afternoon relaxation or beach activities."
+            ]
+          },
+          {
+            "day": 7,
+            "date": "2026-03-06",
+            "activities": [
+              "Dive day 4: Two-tank dive excursion, exploring vibrant coral reefs and potential manta ray sightings."
+            ]
+          },
+          {
+            "day": 8,
+            "date": "2026-03-07",
+            "activities": [
+              "Dive day 5: Morning dive targeting whale shark hotspots. Enjoy evening at the resort."
+            ]
+          },
+          {
+            "day": 9,
+            "date": "2026-03-08",
+            "activities": [
+              "Dive day 6: Explore new dive sites near Dhigurah, known for diverse marine life."
+            ]
+          },
+          {
+            "day": 10,
+            "date": "2026-03-09",
+            "activities": [
+              "Dive day 7: Another morning dive dedicated to whale shark searching. Afternoon leisure."
+            ]
+          },
+          {
+            "day": 11,
+            "date": "2026-03-10",
+            "activities": [
+              "Dive day 8: Two-tank dive focusing on drift dives or channel dives."
+            ]
+          },
+          {
+            "day": 12,
+            "date": "2026-03-11",
+            "activities": [
+              "Last day for diving or snorkeling. Enjoy the resort amenities. Ensure no-fly time after diving before departure."
+            ]
+          },
+          {
+            "day": 13,
+            "date": "2026-03-12",
+            "activities": [
+              "Check-out from Mala Boutique Inn Maldives. Morning domestic transfer from Dhigurah to Velana International Airport (MLE). Depart from MLE for Chicago O'Hare (ORD) with Turkish Airlines (19:40 UTC departure)."
+            ]
+          },
+          {
+            "day": 14,
+            "date": "2026-03-13",
+            "activities": [
+              "Arrive back at Chicago O'Hare (ORD) in the afternoon."
+            ]
+          }
+        ]
+      },
+      "total_package_cost": 3524.00,
+      "currency": "USD"
+    },
+    {
+      "resort": {
+        "name": "White Sand Dhigurah",
+        "location": "Dhigurah, South Ari Atoll, Maldives",
+        "check_in": "2026-03-02",
+        "check_out": "2026-03-12",
+        "price_per_night": 264.40,
+        "total_resort_cost": 2644.00,
+        "amenities": [
+          "Restaurant",
+          "Free Wi-Fi",
+          "Air Conditioning",
+          "Private Bathroom"
+        ],
+        "dive_highlights": [
+          "Whale shark encounters (South Ari Atoll)",
+          "House Reef Diving",
+          "Manta Ray Encounters"
+        ],
+        "url": "https://travel.padi.com/dive-resort/maldives/white-sand-dhigurah/"
+      },
+      "flights": {
+        "departing_flight": {
+          "departure_datetime": "2026-02-28T09:00",
+          "arrival_datetime": "2026-03-01T20:55",
+          "airline": "Turkish Airlines",
+          "price": 575.50,
+          "layovers": [
+            "Istanbul (IST)"
+          ],
+          "flight_time": "35h 55m"
+        },
+        "returning_flight": {
+          "departure_datetime": "2026-03-12T19:40",
+          "arrival_datetime": "2026-03-13T14:45",
+          "airline": "Turkish Airlines",
+          "price": 575.50,
+          "layovers": [
+            "Istanbul (IST)"
+          ],
+          "flight_time": "22h 05m"
+        },
+        "total_flight_cost": 1351.00
+      },
+      "itinerary": {
+        "departure_date": "2026-02-28",
+        "return_date": "2026-03-13",
+        "schedule": [
+          {
+            "day": 1,
+            "date": "2026-02-28",
+            "activities": [
+              "Depart from Chicago O'Hare (ORD) for Malé (MLE), Maldives. Overnight flight with Turkish Airlines."
+            ]
+          },
+          {
+            "day": 2,
+            "date": "2026-03-01",
+            "activities": [
+              "Continue flight journey. Arrive at Velana International Airport (MLE) in Malé, Maldives (20:55 UTC). Overnight stay near MLE airport due to late arrival and daylight-only resort transfers."
+            ]
+          },
+          {
+            "day": 3,
+            "date": "2026-03-02",
+            "activities": [
+              "Morning domestic transfer (estimated cost included in flight total) from MLE to Maamigili (VAM) by flight, followed by a short speedboat transfer to Dhigurah. Check-in to White Sand Dhigurah. Relax and prepare for diving."
+            ]
+          },
+          {
+            "day": 4,
+            "date": "2026-03-03",
+            "activities": [
+              "Dive day 1: Discover local dive sites around Dhigurah, orientation dives with Oceanholic."
+            ]
+          },
+          {
+            "day": 5,
+            "date": "2026-03-04",
+            "activities": [
+              "Dive day 2: Morning dive excursion to search for whale sharks in the South Ari Atoll Marine Protected Area. Afternoon reef dive, potential manta ray sightings."
+            ]
+          },
+          {
+            "day": 6,
+            "date": "2026-03-05",
+            "activities": [
+              "Dive day 3: Morning dive to maximize chances of whale shark encounters. Afternoon relaxation or beach activities."
+            ]
+          },
+          {
+            "day": 7,
+            "date": "2026-03-06",
+            "activities": [
+              "Dive day 4: Two-tank dive excursion, exploring vibrant coral reefs and potential manta ray sightings."
+            ]
+          },
+          {
+            "day": 8,
+            "date": "2026-03-07",
+            "activities": [
+              "Dive day 5: Morning dive targeting whale shark hotspots. Enjoy evening at the resort."
+            ]
+          },
+          {
+            "day": 9,
+            "date": "2026-03-08",
+            "activities": [
+              "Dive day 6: Explore new dive sites near Dhigurah, known for diverse marine life, including a potential house reef dive."
+            ]
+          },
+          {
+            "day": 10,
+            "date": "2026-03-09",
+            "activities": [
+              "Dive day 7: Another morning dive dedicated to whale shark searching. Afternoon leisure."
+            ]
+          },
+          {
+            "day": 11,
+            "date": "2026-03-10",
+            "activities": [
+              "Dive day 8: Two-tank dive focusing on drift dives or channel dives, keeping an eye out for manta rays."
+            ]
+          },
+          {
+            "day": 12,
+            "date": "2026-03-11",
+            "activities": [
+              "Last day for diving or snorkeling. Enjoy the resort amenities. Ensure no-fly time after diving before departure."
+            ]
+          },
+          {
+            "day": 13,
+            "date": "2026-03-12",
+            "activities": [
+              "Check-out from White Sand Dhigurah. Morning domestic transfer from Dhigurah to Velana International Airport (MLE). Depart from MLE for Chicago O'Hare (ORD) with Turkish Airlines (19:40 UTC departure)."
+            ]
+          },
+          {
+            "day": 14,
+            "date": "2026-03-13",
+            "activities": [
+              "Arrive back at Chicago O'Hare (ORD) in the afternoon."
+            ]
+          }
+        ]
+      },
+      "total_package_cost": 3995.00,
+      "currency": "USD"
+    },
+    {
+      "resort": {
+        "name": "TME Retreats Dhigurah",
+        "location": "Dhigurah, South Ari Atoll, Maldives",
+        "check_in": "2026-03-02",
+        "check_out": "2026-03-12",
+        "price_per_night": 285.40,
+        "total_resort_cost": 2854.00,
+        "amenities": [
+          "Restaurant",
+          "Free Wi-Fi",
+          "Air Conditioning"
+        ],
+        "dive_highlights": [
+          "Whale shark encounters (South Ari Atoll)",
+          "Manta Ray Encounters"
+        ],
+        "url": "https://travel.padi.com/dive-resort/maldives/tme-retreats-dhigurah-island-divers/"
+      },
+      "flights": {
+        "departing_flight": {
+          "departure_datetime": "2026-02-28T09:00",
+          "arrival_datetime": "2026-03-01T20:55",
+          "airline": "Turkish Airlines",
+          "price": 575.50,
+          "layovers": [
+            "Istanbul (IST)"
+          ],
+          "flight_time": "35h 55m"
+        },
+        "returning_flight": {
+          "departure_datetime": "2026-03-12T19:40",
+          "arrival_datetime": "2026-03-13T14:45",
+          "airline": "Turkish Airlines",
+          "price": 575.50,
+          "layovers": [
+            "Istanbul (IST)"
+          ],
+          "flight_time": "22h 05m"
+        },
+        "total_flight_cost": 1351.00
+      },
+      "itinerary": {
+        "departure_date": "2026-02-28",
+        "return_date": "2026-03-13",
+        "schedule": [
+          {
+            "day": 1,
+            "date": "2026-02-28",
+            "activities": [
+              "Depart from Chicago O'Hare (ORD) for Malé (MLE), Maldives. Overnight flight with Turkish Airlines."
+            ]
+          },
+          {
+            "day": 2,
+            "date": "2026-03-01",
+            "activities": [
+              "Continue flight journey. Arrive at Velana International Airport (MLE) in Malé, Maldives (20:55 UTC). Overnight stay near MLE airport due to late arrival and daylight-only resort transfers."
+            ]
+          },
+          {
+            "day": 3,
+            "date": "2026-03-02",
+            "activities": [
+              "Morning domestic transfer (estimated cost included in flight total) from MLE to Maamigili (VAM) by flight, followed by a short speedboat transfer to Dhigurah. Check-in to TME Retreats Dhigurah. Relax and prepare for diving."
+            ]
+          },
+          {
+            "day": 4,
+            "date": "2026-03-03",
+            "activities": [
+              "Dive day 1: Discover local dive sites around Dhigurah, orientation dives with Island Divers."
+            ]
+          },
+          {
+            "day": 5,
+            "date": "2026-03-04",
+            "activities": [
+              "Dive day 2: Morning dive excursion to search for whale sharks in the South Ari Atoll Marine Protected Area. Afternoon reef dive."
+            ]
+          },
+          {
+            "day": 6,
+            "date": "2026-03-05",
+            "activities": [
+              "Dive day 3: Morning dive to maximize chances of whale shark encounters. Afternoon relaxation or beach activities."
+            ]
+          },
+          {
+            "day": 7,
+            "date": "2026-03-06",
+            "activities": [
+              "Dive day 4: Two-tank dive excursion, exploring vibrant coral reefs and potential manta ray sightings."
+            ]
+          },
+          {
+            "day": 8,
+            "date": "2026-03-07",
+            "activities": [
+              "Dive day 5: Morning dive targeting whale shark hotspots. Enjoy evening at the resort."
+            ]
+          },
+          {
+            "day": 9,
+            "date": "2026-03-08",
+            "activities": [
+              "Dive day 6: Explore new dive sites near Dhigurah, known for diverse marine life."
+            ]
+          },
+          {
+            "day": 10,
+            "date": "2026-03-09",
+            "activities": [
+              "Dive day 7: Another morning dive dedicated to whale shark searching. Afternoon leisure."
+            ]
+          },
+          {
+            "day": 11,
+            "date": "2026-03-10",
+            "activities": [
+              "Dive day 8: Two-tank dive focusing on drift dives or channel dives, keeping an eye out for manta rays."
+            ]
+          },
+          {
+            "day": 12,
+            "date": "2026-03-11",
+            "activities": [
+              "Last day for diving or snorkeling. Enjoy the resort amenities. Ensure no-fly time after diving before departure."
+            ]
+          },
+          {
+            "day": 13,
+            "date": "2026-03-12",
+            "activities": [
+              "Check-out from TME Retreats Dhigurah. Morning domestic transfer from Dhigurah to Velana International Airport (MLE). Depart from MLE for Chicago O'Hare (ORD) with Turkish Airlines (19:40 UTC departure)."
+            ]
+          },
+          {
+            "day": 14,
+            "date": "2026-03-13",
+            "activities": [
+              "Arrive back at Chicago O'Hare (ORD) in the afternoon."
+            ]
+          }
+        ]
+      },
+      "total_package_cost": 4205.00,
+      "currency": "USD"
+    }
+  ]
+}

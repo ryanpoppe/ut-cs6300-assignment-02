@@ -1,0 +1,345 @@
+{
+    "results": [
+        {
+            "resort": {
+                "name": "Umbi Sharks Bay Diving Resort",
+                "location": "Sharm El Sheikh, Egypt",
+                "check_in": "2026-12-02",
+                "check_out": "2026-12-05",
+                "price_per_night": 255.98,
+                "total_resort_cost": 3078.02,
+                "amenities": [
+                    "On-site dive center",
+                    "Accommodation (rooms, apartments, villas)",
+                    "Restaurant",
+                    "Swimming pool",
+                    "Beach access",
+                    "Free WiFi"
+                ],
+                "dive_highlights": [
+                    "Sharks Bay reef access directly from resort",
+                    "Boat trips to Tiran Island and Ras Mohammed National Park",
+                    "Opportunities to see Green Turtles and Hawksbill Turtles",
+                    "Vibrant coral reefs and diverse fish species"
+                ],
+                "url": "https://travel.padi.com/dive-resort/egypt/umbi-sharks-bay-diving-resort/"
+            },
+            "flights": {
+                "departing_flight": {
+                    "departure_datetime": "2026-12-01T18:00",
+                    "arrival_datetime": "2026-12-02T13:30",
+                    "airline": "Multiple (e.g., Turkish Airlines)",
+                    "price": 1050.00,
+                    "layovers": [
+                        "Istanbul (IST)"
+                    ],
+                    "flight_time": "15h 30m"
+                },
+                "returning_flight": {
+                    "departure_datetime": "2026-12-05T15:00",
+                    "arrival_datetime": "2026-12-06T08:00",
+                    "airline": "Multiple (e.g., Turkish Airlines)",
+                    "price": 1050.00,
+                    "layovers": [
+                        "Istanbul (IST)"
+                    ],
+                    "flight_time": "17h 00m"
+                },
+                "total_flight_cost": 8400.00
+            },
+            "itinerary": {
+                "departure_date": "2026-12-01",
+                "return_date": "2026-12-06",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "date": "2026-12-01",
+                        "activities": [
+                            "Depart from JFK (evening flight)"
+                        ]
+                    },
+                    {
+                        "day": 2,
+                        "date": "2026-12-02",
+                        "activities": [
+                            "Arrive at Sharm El Sheikh Airport (SSH) around 13:30",
+                            "Transfer to Umbi Sharks Bay Diving Resort (approx. 15-20 min drive)",
+                            "Check-in and settle into accommodation",
+                            "Resort orientation and dive briefing",
+                            "Dinner at the resort"
+                        ]
+                    },
+                    {
+                        "day": 3,
+                        "date": "2026-12-03",
+                        "activities": [
+                            "Breakfast at resort",
+                            "Morning 2-tank boat dive to Ras Mohammed National Park (e.g., Shark & Yolanda Reef, Anemone City) - high chance to see turtles, triggerfish, reef sharks",
+                            "Lunch on dive boat or back at resort",
+                            "Afternoon leisure or shore dive at Sharks Bay (good for seeing resident turtles)",
+                            "Dinner"
+                        ]
+                    },
+                    {
+                        "day": 4,
+                        "date": "2026-12-04",
+                        "activities": [
+                            "Breakfast at resort",
+                            "Morning 2-tank boat dive to Tiran Island (e.g., Gordon Reef, Jackson Reef) - good chance for turtles, reef sharks, schooling fish",
+                            "Lunch on dive boat or back at resort",
+                            "Afternoon relaxation or snorkeling",
+                            "Dinner"
+                        ]
+                    },
+                    {
+                        "day": 5,
+                        "date": "2026-12-05",
+                        "activities": [
+                            "Breakfast at resort",
+                            "Check-out from Umbi Sharks Bay Diving Resort",
+                            "Transfer to Sharm El Sheikh Airport (SSH)",
+                            "Depart from Sharm El Sheikh (afternoon flight)"
+                        ]
+                    },
+                    {
+                        "day": 6,
+                        "date": "2026-12-06",
+                        "activities": [
+                            "Arrive at JFK (morning)"
+                        ]
+                    }
+                ]
+            },
+            "total_package_cost": 11478.02,
+            "currency": "USD"
+        },
+        {
+            "resort": {
+                "name": "Camel Hotel & Dive Centre",
+                "location": "Naama Bay, Sharm El Sheikh, Egypt",
+                "check_in": "2026-12-02",
+                "check_out": "2026-12-05",
+                "price_per_night": 275.00,
+                "total_resort_cost": 3300.00,
+                "amenities": [
+                    "On-site PADI 5-star CDC dive center",
+                    "Swimming pool",
+                    "Three restaurants (Italian, Indian, international)",
+                    "Bar",
+                    "Free WiFi",
+                    "Air-conditioned rooms"
+                ],
+                "dive_highlights": [
+                    "Access to numerous dive sites including Ras Mohammed, Tiran Island, and local reefs",
+                    "Strong reputation for professional dive services and guiding",
+                    "Regular sightings of turtles, moray eels, and diverse reef fish",
+                    "House reef diving available"
+                ],
+                "url": "https://www.cameldive.com/"
+            },
+            "flights": {
+                "departing_flight": {
+                    "departure_datetime": "2026-12-01T18:00",
+                    "arrival_datetime": "2026-12-02T13:30",
+                    "airline": "Multiple (e.g., Turkish Airlines)",
+                    "price": 1050.00,
+                    "layovers": [
+                        "Istanbul (IST)"
+                    ],
+                    "flight_time": "15h 30m"
+                },
+                "returning_flight": {
+                    "departure_datetime": "2026-12-05T15:00",
+                    "arrival_datetime": "2026-12-06T08:00",
+                    "airline": "Multiple (e.g., Turkish Airlines)",
+                    "price": 1050.00,
+                    "layovers": [
+                        "Istanbul (IST)"
+                    ],
+                    "flight_time": "17h 00m"
+                },
+                "total_flight_cost": 8400.00
+            },
+            "itinerary": {
+                "departure_date": "2026-12-01",
+                "return_date": "2026-12-06",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "date": "2026-12-01",
+                        "activities": [
+                            "Depart from JFK (evening flight)"
+                        ]
+                    },
+                    {
+                        "day": 2,
+                        "date": "2026-12-02",
+                        "activities": [
+                            "Arrive at Sharm El Sheikh Airport (SSH) around 13:30",
+                            "Transfer to Camel Hotel & Dive Centre in Naama Bay (approx. 20-25 min drive)",
+                            "Check-in and settle into accommodation",
+                            "Dive center orientation and equipment fitting",
+                            "Dinner at the hotel"
+                        ]
+                    },
+                    {
+                        "day": 3,
+                        "date": "2026-12-03",
+                        "activities": [
+                            "Breakfast at hotel",
+                            "Morning 2-tank boat dive to Tiran Island (e.g., Woodhouse Reef, Thomas Reef) - excellent chance for turtles and abundant marine life",
+                            "Lunch on dive boat",
+                            "Afternoon leisure, explore Naama Bay, or optional shore dive",
+                            "Dinner at one of the hotel's restaurants"
+                        ]
+                    },
+                    {
+                        "day": 4,
+                        "date": "2026-12-04",
+                        "activities": [
+                            "Breakfast at hotel",
+                            "Morning 2-tank boat dive to local Sharm El Sheikh reefs (e.g., Near Garden, Far Garden) - frequent turtle sightings, vibrant coral gardens",
+                            "Lunch on dive boat",
+                            "Afternoon relaxation or souvenir shopping",
+                            "Farewell dinner"
+                        ]
+                    },
+                    {
+                        "day": 5,
+                        "date": "2026-12-05",
+                        "activities": [
+                            "Breakfast at hotel",
+                            "Check-out from Camel Hotel & Dive Centre",
+                            "Transfer to Sharm El Sheikh Airport (SSH)",
+                            "Depart from Sharm El Sheikh (afternoon flight)"
+                        ]
+                    },
+                    {
+                        "day": 6,
+                        "date": "2026-12-06",
+                        "activities": [
+                            "Arrive at JFK (morning)"
+                        ]
+                    }
+                ]
+            },
+            "total_package_cost": 11700.00,
+            "currency": "USD"
+        },
+        {
+            "resort": {
+                "name": "Deep South Eco Lodge",
+                "location": "Hamata, Marsa Alam, Egypt",
+                "check_in": "2026-12-02",
+                "check_out": "2026-12-05",
+                "price_per_night": 290.00,
+                "total_resort_cost": 3480.00,
+                "amenities": [
+                    "Eco-friendly bungalows/huts",
+                    "On-site dive center",
+                    "Restaurant with local cuisine",
+                    "Private beach access",
+                    "Relaxation areas",
+                    "Remote and tranquil setting"
+                ],
+                "dive_highlights": [
+                    "Proximity to Fury Shoals and Dolphin House (Sha'ab Samadai)",
+                    "Excellent opportunities for seeing Green Turtles and Hawksbill Turtles in seagrass beds and reefs",
+                    "Dugong sightings possible",
+                    "Pristine, less crowded dive sites",
+                    "Healthy hard and soft corals"
+                ],
+                "url": "https://www.deepsouthecolodge.com/"
+            },
+            "flights": {
+                "departing_flight": {
+                    "departure_datetime": "2026-12-01T17:00",
+                    "arrival_datetime": "2026-12-02T14:00",
+                    "airline": "Multiple (e.g., EgyptAir, Lufthansa)",
+                    "price": 1100.00,
+                    "layovers": [
+                        "Cairo (CAI)",
+                        "Frankfurt (FRA)"
+                    ],
+                    "flight_time": "18h 00m"
+                },
+                "returning_flight": {
+                    "departure_datetime": "2026-12-05T16:00",
+                    "arrival_datetime": "2026-12-06T09:30",
+                    "airline": "Multiple (e.g., EgyptAir, Lufthansa)",
+                    "price": 1100.00,
+                    "layovers": [
+                        "Cairo (CAI)",
+                        "Frankfurt (FRA)"
+                    ],
+                    "flight_time": "19h 30m"
+                },
+                "total_flight_cost": 8800.00
+            },
+            "itinerary": {
+                "departure_date": "2026-12-01",
+                "return_date": "2026-12-06",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "date": "2026-12-01",
+                        "activities": [
+                            "Depart from JFK (evening flight)"
+                        ]
+                    },
+                    {
+                        "day": 2,
+                        "date": "2026-12-02",
+                        "activities": [
+                            "Arrive at Marsa Alam International Airport (RMF) around 14:00 (after connecting flight via Cairo/Europe)",
+                            "Transfer to Deep South Eco Lodge in Hamata (approx. 2-hour drive from RMF)",
+                            "Check-in and settle into accommodation",
+                            "Welcome briefing and dinner"
+                        ]
+                    },
+                    {
+                        "day": 3,
+                        "date": "2026-12-03",
+                        "activities": [
+                            "Breakfast at the lodge",
+                            "Morning 2-tank boat dive to Fury Shoals (e.g., Sha'ab Sataya - Dolphin House) - excellent chance for dolphins and turtles",
+                            "Lunch on dive boat",
+                            "Afternoon relaxation at the lodge or beach walk",
+                            "Dinner"
+                        ]
+                    },
+                    {
+                        "day": 4,
+                        "date": "2026-12-04",
+                        "activities": [
+                            "Breakfast at the lodge",
+                            "Morning 2-tank boat dive to another Fury Shoals site or local reef (e.g., Habili El Ghadeer) - high likelihood of turtle sightings, pristine reefs",
+                            "Lunch on dive boat",
+                            "Afternoon optional shore dive or snorkeling",
+                            "Farewell dinner"
+                        ]
+                    },
+                    {
+                        "day": 5,
+                        "date": "2026-12-05",
+                        "activities": [
+                            "Breakfast at the lodge",
+                            "Check-out from Deep South Eco Lodge",
+                            "Transfer to Marsa Alam International Airport (RMF)",
+                            "Depart from Marsa Alam (afternoon flight)"
+                        ]
+                    },
+                    {
+                        "day": 6,
+                        "date": "2026-12-06",
+                        "activities": [
+                            "Arrive at JFK (morning)"
+                        ]
+                    }
+                ]
+            },
+            "total_package_cost": 12280.00,
+            "currency": "USD"
+        }
+    ]
+}

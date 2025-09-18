@@ -1,0 +1,216 @@
+{
+    "results": [
+        {
+            "resort": {
+                "name": "Matamanoa Island",
+                "location": "Fiji",
+                "check_in": "2026-10-26",
+                "check_out": "2026-10-31",
+                "price_per_night": 1279.70,
+                "total_resort_cost": 6398.50,
+                "amenities": [
+                    "Pool"
+                ],
+                "dive_highlights": [
+                    "Sharks"
+                ],
+                "url": "https://travel.padi.com/dive-resort/fiji/matamanoa-island/"
+            },
+            "flights": {
+                "departing_flight": {
+                    "departure_datetime": "2026-10-24T22:30",
+                    "arrival_datetime": "2026-10-26T05:30",
+                    "airline": "Fiji Airways",
+                    "price": 980.00,
+                    "layovers": [],
+                    "flight_time": "10h 0m"
+                },
+                "returning_flight": {
+                    "departure_datetime": "2026-10-31T21:00",
+                    "arrival_datetime": "2026-10-31T11:00",
+                    "airline": "Fiji Airways",
+                    "price": 980.00,
+                    "layovers": [],
+                    "flight_time": "10h 0m"
+                },
+                "total_flight_cost": 1960.00
+            },
+            "itinerary": {
+                "departure_date": "2026-10-24",
+                "return_date": "2026-10-31",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "date": "2026-10-24",
+                        "activities": [
+                            "Depart from LAX to NAN (Flight: Fiji Airways)"
+                        ]
+                    },
+                    {
+                        "day": 2,
+                        "date": "2026-10-25",
+                        "activities": [
+                            "In Transit / Crossing International Dateline"
+                        ]
+                    },
+                    {
+                        "day": 3,
+                        "date": "2026-10-26",
+                        "activities": [
+                            "Arrive at NAN (Nadi International Airport)",
+                            "Transfer to Matamanoa Island Resort (boat transfer from Denarau Marina)",
+                            "Resort check-in",
+                            "Rest and relax"
+                        ]
+                    },
+                    {
+                        "day": 4,
+                        "date": "2026-10-27",
+                        "activities": [
+                            "Scuba diving (opportunities to see Sharks)"
+                        ]
+                    },
+                    {
+                        "day": 5,
+                        "date": "2026-10-28",
+                        "activities": [
+                            "Scuba diving (opportunities to see Sharks)"
+                        ]
+                    },
+                    {
+                        "day": 6,
+                        "date": "2026-10-29",
+                        "activities": [
+                            "Scuba diving (opportunities to see Sharks)"
+                        ]
+                    },
+                    {
+                        "day": 7,
+                        "date": "2026-10-30",
+                        "activities": [
+                            "Leisure time / Optional local excursion / Final dive (no fly day rule)"
+                        ]
+                    },
+                    {
+                        "day": 8,
+                        "date": "2026-10-31",
+                        "activities": [
+                            "Resort check-out",
+                            "Transfer from Matamanoa Island to Nadi International Airport",
+                            "Depart from NAN to LAX (Flight: Fiji Airways)"
+                        ]
+                    }
+                ]
+            },
+            "total_package_cost": 8358.50,
+            "currency": "USD"
+        },
+        {
+            "resort": {
+                "name": "The Pearl Resort",
+                "location": "Fiji",
+                "check_in": "2026-10-26",
+                "check_out": "2026-10-31",
+                "price_per_night": 2528.54,
+                "total_resort_cost": 12642.70,
+                "amenities": [
+                    "Spa",
+                    "Pool",
+                    "Wi-Fi"
+                ],
+                "dive_highlights": [
+                    "Sharks"
+                ],
+                "url": "https://travel.padi.com/dive-resort/fiji/the-pearl-resort/"
+            },
+            "flights": {
+                "departing_flight": {
+                    "departure_datetime": "2026-10-24T22:30",
+                    "arrival_datetime": "2026-10-26T05:30",
+                    "airline": "Fiji Airways",
+                    "price": 980.00,
+                    "layovers": [],
+                    "flight_time": "10h 0m"
+                },
+                "returning_flight": {
+                    "departure_datetime": "2026-10-31T21:00",
+                    "arrival_datetime": "2026-10-31T11:00",
+                    "airline": "Fiji Airways",
+                    "price": 980.00,
+                    "layovers": [],
+                    "flight_time": "10h 0m"
+                },
+                "total_flight_cost": 1960.00
+            },
+            "itinerary": {
+                "departure_date": "2026-10-24",
+                "return_date": "2026-10-31",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "date": "2026-10-24",
+                        "activities": [
+                            "Depart from LAX to NAN (Flight: Fiji Airways)"
+                        ]
+                    },
+                    {
+                        "day": 2,
+                        "date": "2026-10-25",
+                        "activities": [
+                            "In Transit / Crossing International Dateline"
+                        ]
+                    },
+                    {
+                        "day": 3,
+                        "date": "2026-10-26",
+                        "activities": [
+                            "Arrive at NAN (Nadi International Airport)",
+                            "Transfer to The Pearl Resort (approximately 2.5-hour drive to Pacific Harbour)",
+                            "Resort check-in",
+                            "Rest and relax"
+                        ]
+                    },
+                    {
+                        "day": 4,
+                        "date": "2026-10-27",
+                        "activities": [
+                            "Scuba diving (opportunities to see Sharks)"
+                        ]
+                    },
+                    {
+                        "day": 5,
+                        "date": "2026-10-28",
+                        "activities": [
+                            "Scuba diving (opportunities to see Sharks)"
+                        ]
+                    },
+                    {
+                        "day": 6,
+                        "date": "2026-10-29",
+                        "activities": [
+                            "Scuba diving (opportunities to see Sharks)"
+                        ]
+                    },
+                    {
+                        "day": 7,
+                        "date": "2026-10-30",
+                        "activities": [
+                            "Leisure time / Optional local excursion / Final dive (no fly day rule)"
+                        ]
+                    },
+                    {
+                        "day": 8,
+                        "date": "2026-10-31",
+                        "activities": [
+                            "Resort check-out",
+                            "Transfer from The Pearl Resort to Nadi International Airport",
+                            "Depart from NAN to LAX (Flight: Fiji Airways)"
+                        ]
+                    }
+                ]
+            },
+            "total_package_cost": 14602.70,
+            "currency": "USD"
+        }
+    ]
+}
